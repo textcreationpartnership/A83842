@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall orders of the House of Commons and Committee of the Navie; with the proceedings thereupon, touching the discovery and prevention of transportation of gold and silver: with other abuses practised upon the coyn and bullion of the kingdom.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83842</idno>
+            <idno type="STC">Wing E2729aA</idno>
+            <idno type="STC">ESTC R176182</idno>
+            <idno type="EEBO-CITATION">45097765</idno>
+            <idno type="OCLC">ocm 45097765</idno>
+            <idno type="VID">171356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall orders of the House of Commons and Committee of the Navie; with the proceedings thereupon, touching the discovery and prevention of transportation of gold and silver: with other abuses practised upon the coyn and bullion of the kingdom.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>England and Wales. Committee of the Navy.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bentley:,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Domini 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the California State Library, Sutro branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gold --  Law and legislation --  Great Britain.</term>
+               <term>Silver --  Great Britain.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171356:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>SEVERALL ORDERS OF THE HOUSE OF COMMONS and COMMITTEE of the NAVIE; With the proceedings thereup<g ref="char:EOLhyphen"/>on, touching the Diſcove<g ref="char:EOLhyphen"/>ry and Prevention of TRANSPORTATION of GOLD and SILVER: With other abuſes practiſed up<g ref="char:EOLhyphen"/>on the COYN and BULLION of the Kingdom.</p>
+            <p>
+               <hi>LONDON,</hi> ¶ Printed by WILLIAM BENTLEY: <hi>Anno Domini</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <pb facs="tcp:171356:2"/>
+                        <!-- PDF PAGE 26 -->
+                        <pb n="1" facs="tcp:171356:2"/>
+                        <!-- PDF PAGE 26 -->
+                        <div type="part">
+                           <opener>
+                              <dateline>
+                                 <date>Die Mercurii, 1. Sept. 1647.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <seg rend="decorInit">O</seg>Rdered by the Commons in Parliament aſſembled, That it be referred to the Comittee of the Navie, to conſider of, and take ſome effectuall courſe to pre<g ref="char:EOLhyphen"/>vent the Tranſportation of <hi>Bullion</hi> out of the King<g ref="char:EOLhyphen"/>dom: and ſpeedily to report what they have done herein to the Houſe.</p>
+                           <closer>
+                              <signed>H. ELSYNGE, <hi>Cler. Parl. Domm. Comm.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                        <div type="part">
+                           <head>Committee of the Navie <hi>2. September, 1647.</hi>
+                           </head>
+                           <p>THe Commiſſioners and Officers of the Cuſtomes with Maſter <hi>Watkins</hi> the head Searcher, are deſired to conſider of ſome courſe to be taken to prevent the Tranſportation of <hi>Bullion</hi> out of the Kingdom, according to an Order of the Houſe of Com<g ref="char:EOLhyphen"/>mons hereunto annexed; and to certifie the ſame to this Com<g ref="char:EOLhyphen"/>mittee.</p>
+                           <closer>
+                              <signed>Giles Green.</signed>
+                           </closer>
+                        </div>
+                        <div type="part">
+                           <p>THe Commiſſioners and Officers for the Cuſtomes, having to<g ref="char:EOLhyphen"/>gether with the head Searcher, in the Port of <hi>London,</hi> in pur<g ref="char:EOLhyphen"/>ſuance of the directions of this Honourable Committee above mentioned, peruſed ſundry Statutes yet in force, relating, as well to the reſtraint of the Exportation of <hi>Bullion,</hi> as the Regulation of Merchants Strangers in their way of Trade, do humbly con<g ref="char:EOLhyphen"/>ceive,</p>
+                           <p n="1">1 That if the <hi>Satute</hi> of 2. <hi>Hen.</hi> 6. <hi>cap.</hi> 6. enjoyning Merchants Strangers, to give ſecuritie in Chancery, not to Tranſport the Money or Plate of the Realm. And the <hi>Statute</hi> of 3. <hi>Hen.</hi> 7. <hi>cap.</hi> 8. enjoyning them to imploy the money they receive, in the Merchandize of this Kingdom.</p>
+                           <p n="2">2 And that to the <hi>Statute</hi> of 5. <hi>Rich.</hi> 2. <hi>cap.</hi> 2. and 2. <hi>Hen.</hi> 4. <hi>cap.</hi> 5. The Parliament would be pleaſed, Firſt to declare who ſhall be reputed Aliens: for that ſince the ſitting of this Parlia<g ref="char:EOLhyphen"/>ment, the Children of Aliens born in this Kingdom, are reputed
+<pb n="2" facs="tcp:171356:3"/>
+                              <!-- PDF PAGE 27 -->Free-born Subjects, and do enjoy their Priviledges accordingly: which in former times was not allowed till the third deſcent. Secondly, To declare by Ordinance that the Eſtates of him or them that ſhall Export Money or Plate, ſhall be immediatly Se<g ref="char:EOLhyphen"/>queſtered.</p>
+                           <p n="3">3 To impoſe a ſevere Penalty upon the Maſter of ſuch Ship or Veſſel, upon which any Money or Plate ſhall be found above his ordinary charges, he being privy thereunto.</p>
+                           <p n="4">4 To allow to ſuch as ſhall diſcover or find out, any <hi>Bullion</hi> or <hi>Plate,</hi> endeavoured to be tranſported, a greater ſhare and pro<g ref="char:EOLhyphen"/>portion, then by the <hi>Statutes</hi> in that caſe is yet provided.</p>
+                           <p n="5">5 And to ſettle ſome way of puniſhment for ſuch as ſhall reſiſt, or abuſe Officers ſufficiently authorized in their endeavours this way on the States behalf,</p>
+                           <p>The ſaid Commiſſioners and Officers, do humbly con<g ref="char:EOLhyphen"/>ceive, That it would be a good means to deter ſuch, who by all ſecret means do dayly endeavour the Exportation of the <hi>Coyn</hi> and <hi>Bullion</hi> of this Kingdom; and much prevent the Exportation thereof. All which, nevertheleſſe they humbly ſubmit to the wiſdom of this Honourable Committee.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Tho. Dawes</hi> Coll.</item>
+                                    <item>
+                                       <hi>Iohn Hoolloway</hi> Comptr.</item>
+                                    <item>
+                                       <hi>R. Carmarden</hi> Super. Viſ.</item>
+                                    <item>
+                                       <hi>Edw. Watkins</hi> Searcher.</item>
+                                    <item>
+                                       <hi>W. Toomes</hi> Super. Viſ. Gen.</item>
+                                    <item>
+                                       <hi>Walter Boothby.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Rich. Bateman.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Sam. Avery.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Chriſtoph. Packe.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Charles Lloyd.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>AFter the return of the aboveſaid Report of the Commiſſion<g ref="char:EOLhyphen"/>ers and Officers of the Cuſtomes, Maſter <hi>Watkins</hi> was again required by the <hi>Committee</hi> of the <hi>Navie,</hi> to uſe his beſt endeavours in the diſcovery of the abuſes aforeſaid: who in order thereunto, did deliver his anſwer to the ſame Committe, as followeth.</p>
+            <q>
+               <pb n="3" facs="tcp:171356:3"/>
+               <!-- PDF PAGE 27 -->
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <div type="part">
+                           <opener>
+                              <dateline>
+                                 <date>December 3. Anno Dom. 1647.</date>
+                              </dateline>
+                           </opener>
+                           <p>The humble Anſwer of <hi>Edward Watkins</hi> Eſquire, head Searcher of the Port of <hi>London,</hi> to the demands of the Honourable <hi>Committee</hi> of the <hi>Navie;</hi> for the finding out of ſuch perſons, who do and have, againſt the Known Laws of the Land Tranſported <hi>Gold</hi> and <hi>Silver</hi> into divers parts beyond the Seas, and have melted down the Currant Coyns of the Kingdom: and bought <hi>Gold</hi> and <hi>Silver</hi> above the rate of the Mint.</p>
+                           <p n="1">1 THat by his place he hath the Moyetie of all <hi>Gold</hi> and <hi>Silver</hi> which ſhall be ſeized in manner as afore mentioned.</p>
+                           <p n="2">2 That to give a ſtop to theſe abuſes, and to make a perfect diſ<g ref="char:EOLhyphen"/>coverie of thoſe who have offended, there muſt be Commiſſions, one or more, (as occaſion ſhall require) iſſue out of the Exchequer, granted to ſuch perſons who he ſhall truſt, to examine all ſuch per<g ref="char:EOLhyphen"/>ſons who may be ſuſpected to be guilty of ſuch Miſdemeanours, or give any Evidence therein.</p>
+                           <p n="3">3 That in caſe he may be allowed the Moyetie, and have full power to proſecute with effect; That then he will be at the charge in carrying on this buſineſſe (which will coſt thouſands of pounds) having power to uſe his own inſtruments; which he is confident will prove ſo active, as ſhall ſatisfie the expectation of this Honou<g ref="char:EOLhyphen"/>rable Committee, for the hindering of the Tranſportation of <hi>Gold</hi> and <hi>Silver:</hi> and will bring conſiderable ſums of money to the State.</p>
+                           <p n="4">4 That an Ordinance may be prepared for the enabling of him and his Aſſignes: And <hi>Henry Cogan</hi> Eſquire, Comptroler of the Mint, to proceed in this ſervice: and that proviſion be made for the allowing them a Moyetie, or half part of all ſuch ſum, or ſums of money that ſhall be received, or recovered by the Fines or Com<g ref="char:EOLhyphen"/>poſitions of the Offenders aforeſaid; for the defraying of their charges and pains.</p>
+                           <closer>
+                              <signed>Edw. Watkins.</signed>
+                           </closer>
+                        </div>
+                        <div type="part">
+                           <head>Committee of the Navie, <hi>3. December, 1647.</hi>
+                           </head>
+                           <p>THe Committee having taken this Propoſition of Maſter <hi>Wat<g ref="char:EOLhyphen"/>kins</hi> into conſideration, together with the annexed Report of the Commiſſioners and Officers of the Cuſtomes, do think fit to refer the ſame to the Chief Officers of the Mint: Who are deſired to certifie their opinions thereupon to this Committee.</p>
+                           <closer>
+                              <signed>Giles Green.</signed>
+                           </closer>
+                        </div>
+                        <div type="part">
+                           <pb n="4" facs="tcp:171356:4"/>
+                           <!-- PDF PAGE 28 -->
+                           <p>The Officers of his Majeſties Mint in the Tower of <hi>London,</hi> whoſe names are here under written, in purſuance of the directions of the Honourable<hi>Committee</hi> of the <hi>Navie,</hi> in relation to their Order dated the 3 of <hi>December</hi> preſent, do humbly conceive, and certifie as followeth.</p>
+                           <p>THat to prevent great abuſes practiſed upon the <hi>Coyn</hi> and <hi>Bul<g ref="char:EOLhyphen"/>lion</hi> of the Kingdom, which is Tranſported out of the King<g ref="char:EOLhyphen"/>dom; as alſo to prevent the Culling and Melting down the Cur<g ref="char:EOLhyphen"/>rant Money of the Kingdom: and for the diſcovering of ſuch as have offended to be brought to juſtice, to deter others from acting the like abuſes for the future, do humbly conceive,</p>
+                           <p>That according to the Preſident of the 14. <hi>Rich.</hi> 2. <hi>cap.</hi> 12. a Commiſſion be granted to make enquirie through the Realm, of ſuch as had conveied the moneys of <hi>England</hi> out of the Kingdom, and to make enquirie after all ſuch as Melt and Cull out the hea<g ref="char:EOLhyphen"/>vie Currant Money, contrary to the <hi>Statute</hi> of the 4. <hi>Hen.</hi> 4. <hi>cap.</hi> 10. none to melt the Currant Silver Coyns of the Kingdom, upon pain of forfeiture four times the value.</p>
+                           <p>That 2. <hi>Hen.</hi> 6. <hi>cap.</hi> 12. It is ordained, that neither the Ma<g ref="char:EOLhyphen"/>ſter Worker of the Mint, nor the Changer for the time being, nei<g ref="char:EOLhyphen"/>ther ſell or cauſe to be ſold, nor alien to no other uſe; but apply the ſame wholly to Coyn, according to the tenure of the Indenture of the Mint, made between the Kings Majeſtie and the Maſter of the Mint: to declare by Ordinance, That what Gold-ſmith, or Changer ſhall buy <hi>Gold</hi> or <hi>Silver,</hi> and convert it to any uſe to Tranſport, ſhall forfeit the value.</p>
+                           <p>To declare by Ordinance, that according to the 5. <hi>&amp;</hi> 6. <hi>Edw.</hi> 6. <hi>cap.</hi> 19. and Act touching the Exchange of <hi>Gold</hi> and <hi>Silver.</hi> That whoſoever gives more for <hi>Gold</hi> and <hi>Silver</hi> then it is or ſhall be de<g ref="char:EOLhyphen"/>clared, ſhall ſuffer impriſonment by the ſpace of a year, and make Fine at the pleaſure of the King. The Mint cannot be imployed, nor the Tranſporting of Treaſure ſtopped, if ſome courſe be not ſpeedily taken to diſcover theſe great abuſes. And already, almoſt all the <hi>Gold</hi> is Tranſported out of the Kingdom; and the <hi>Silver</hi> followeth it apace, as is prudently inſiſted upon in the late Petition of the Citizens of <hi>London,</hi> to both Houſes of Parliament.</p>
+                           <p>We humbly conceive, that the making of this diſcovery throughout the kingdom, of ſuch as have, or ſhall Tranſport <hi>Gold</hi> and <hi>Silver</hi> into parts beyond the Seas, and of ſuch as have,
+<pb n="5" facs="tcp:171356:4"/>
+                              <!-- PDF PAGE 28 -->or ſhall melt down the Currant <hi>Gold</hi> and <hi>Silver</hi> Coyns of the Kingdom, or have, or ſhall buy <hi>Gold</hi> and <hi>Silver</hi> at above the price of the Mint: the practice of which abuſes, if not timely prevented, is likely to bring ſpeedie deſtruction to the Trade of this Kingdom: which is Preſidented <hi>Anno</hi> 4. <hi>Rich.</hi> 2. <hi>cap.</hi> 2. when the Kingdom found the ſame miſchief as we now ſuffer under, by Tranſporting of Treaſure. And <hi>Anno</hi> 5. <hi>&amp;</hi> 6. <hi>Edw.</hi> 6. <hi>cap.</hi> 19. by giving for <hi>Gold</hi> and <hi>Silver</hi> above the price of the Mint. As it will be a ſervice of great importance to the Publick affairs, and bring great advantage to the Trade of this Kingdom; ſo it will draw with it a very great charge. Which if Maſter <hi>Watkins</hi> will undertake, he will deſerve well to be encouraged. Nevertheleſſe, we humbly ſubmit the pre<g ref="char:EOLhyphen"/>miſes, to the wiſdoms of this Honourable Committee.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Iohn S<hi rend="sup">t</hi> Iohn</hi> Warden.</item>
+                                    <item>
+                                       <hi>Robert Harley</hi> Maſter.</item>
+                                    <item>
+                                       <hi>Henry Cogan</hi> Comptr.</item>
+                                 </list>
+                              </signed>
+                              <dateline>
+                                 <date>December 20. 1647.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                        <div type="part">
+                           <head>Committee of the Navie. <date>8. Febr. 1647.</date>
+                           </head>
+                           <p>WHereas the Houſe of Commons, did by their Order of the 1. of <hi>September</hi> 1647. refer unto this Committee, to take ſome effectuall courſe to prevent the Exportation of <hi>Bullion,</hi> and report their proceedings unto the Houſe. Whereupon, <hi>Edward Watkins</hi> Eſquire, Searcher of the Port of <hi>London,</hi> preſented cer<g ref="char:EOLhyphen"/>tain Propoſitions unto this Committee, which this Committee have referred, both unto the Commiſſioners of the Cuſtomes as al<g ref="char:EOLhyphen"/>ſo unto the Officers of the Mint; whoſe reſpective reports are here<g ref="char:EOLhyphen"/>unto annexed. The which the Committee having taken into con<g ref="char:EOLhyphen"/>ſideration, do think ſit, and Order, That the ſaid <hi>Edward Watkins</hi> do attend Maſter Solicitour with the ſaid Propoſitions and other Papers, who is deſired to draw up ſuch an Ordinance as in his judgement he ſhall ſee ſitting to be preſented unto the Houſe, for the intents and purpoſes aforeſaid.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>Samuel Vaſſall.</item>
+                                    <item>George Scutt.</item>
+                                    <item>George Thomſon.</item>
+                                    <item>Iohn Waddon.</item>
+                                    <item>Giles Green.</item>
+                                    <item>Edward Aſh.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                           <postscript>
+                              <pb n="6" facs="tcp:171356:5"/>
+                              <!-- PDF PAGE 29 -->
+                              <p>IN purſuance of this Order, I have been attended by Maſter <hi>Watkins,</hi> and have conſidered of the Order of the Houſe of Commons of the 1. <hi>September</hi> laſt; and of the Certificates and Papers annexed. And I do conceive Tranſporters of <hi>Coyn</hi> and <hi>Bullion,</hi> and Buyers of <hi>Coyn</hi> at greater rates then for which the ſame is allowed to be Currant, may be puniſhed by the Statute-Laws now in force, if an effectuall courſe were taken for their diſ<g ref="char:EOLhyphen"/>coverie. For which end, if a Commiſſion be iſſued out of the Ex<g ref="char:EOLhyphen"/>chequer, directed to fit perſons to be imployed in this ſervice; and Examinations and Proofs returned, Informations may be Exhibit<g ref="char:EOLhyphen"/>ed in the ſaid Court for puniſhing the offenders.</p>
+                              <closer>
+                                 <dateline>Dated <date>the tenth day of <hi>March, Anno Dom.</hi> 1647.</date>
+                                 </dateline>
+                                 <signed>Oliver S<hi rend="sup">t</hi> Iohn.</signed>
+                              </closer>
+                           </postscript>
+                        </div>
+                        <div type="part">
+                           <head>Committee of the Navie and Cuſtomes. <date>28. Martii 1648.</date>
+                           </head>
+                           <p>WHereas the Houſe of Commons did by their Order of the 1. <hi>September</hi> laſt, refer it to this Committee to conſider of, and to take ſome effectuall courſe to prevent the Tranſportation of <hi>Bullion</hi> out of the Kingdom. Whereupon this Committee did refer the ſame unto the Commiſſioners and Officers of the Cu<g ref="char:EOLhyphen"/>ſtomes: as alſo to the Officers of the Mint, who returned their ſe<g ref="char:EOLhyphen"/>verall Certificates thereupon unto this Committee; which the Committee having taken into conſideration, Did deſire the opini<g ref="char:EOLhyphen"/>on of Maſter Sollicitour thereupon. Who hath returned his Cer<g ref="char:EOLhyphen"/>tificate: That Tranſportation of <hi>Coyn</hi> and <hi>Bullion,</hi> and buying of <hi>Coyn</hi> at greater rates then for which the ſame is allowed to be Currant, may be puniſhed by the Statute-Laws now in force, if an effectuall courſe were taken for their diſcovery. For which end, if a Commiſſion be iſſued out of the Exchequer, directed to fit per<g ref="char:EOLhyphen"/>ſons to be imployed in this ſervice, and Examinations and Proofs returned; Informations may be Exhibited in the ſaid Court, for the puniſhing the offenders. The Committee having taken the whole premiſes into debate and conſideration, do think fit, and Order, That it be eſpecially recommended unto the ſaid Maſter Sollicitour to procure a Commiſſion to be iſſued out of the Court of Exchequer, directed unto <hi>Iohn S<hi rend="sup">t</hi> Iohns, Henry Cogan, Edward Watkins, Vincent Delabarre</hi> Eſquires, <hi>Thomas Lever, Iohn Bird, Iohn Bennet, Iames Hoar, Anthonie Keilock,</hi> and <hi>Francis Smartfoot</hi> Gent.
+<pb n="7" facs="tcp:171356:5"/>
+                              <!-- PDF PAGE 29 -->and ſuch others as he ſhall think ſitting, or two or more of them returnable <hi>quam Citius &amp; tandem ad tres. Michls.</hi> to take Examina<g ref="char:EOLhyphen"/>tion in the Citie of <hi>London,</hi> Counties of <hi>Kent</hi> and <hi>Suſſex,</hi> concern<g ref="char:EOLhyphen"/>ing the unlawfull Exportation of <hi>Gold</hi> and <hi>Silver</hi> in Maſſe, or Moneys, or Plate out of this Realm to forrein parts; and concern<g ref="char:EOLhyphen"/>ing the buying of <hi>Gold</hi> and <hi>Silver</hi> at higher rates then are allowed at the Mint, and Melting the Coyns of the Kingdom, and other abuſes practiſed upon <hi>Coins</hi> and <hi>Bullion</hi> within this Kingdom. And he is deſired to move the Barons of the Exchequer, to grant the ſaid Commiſſions, and to proceed thereon according to the Laws.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>Samuel Vaſſall.</item>
+                                    <item>Squire Bence.</item>
+                                    <item>Giles Green.</item>
+                                    <item>Walt. Earle</item>
+                                    <item>Iohn Roll.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>AFter all theſe ſerious Debates, Orders, and Certificates in the purſuance of the Order of Parliament, The Barons of the Exchequer granted out a Commiſſion, dated 12. <hi>February</hi> 1647. to the perſons afore recited, to find out the offences afore named, in <hi>London, Kent,</hi> and <hi>Suſſex.</hi>
+            </p>
+            <p>That which will give diſpatch in this buſineſſe, is,</p>
+            <p n="1">1 That the ſaid Barons may be deſired effectually to proceed againſt ſuch perſons as either refuſe to Appear before the Com<g ref="char:EOLhyphen"/>miſſioners upon <hi>Subpenas</hi> ſerved on them for ſuch Appearances, (or as when they do appear, refuſe to be examined upon oath) where<g ref="char:EOLhyphen"/>in themſelves are not concerned, as againſt perſons in contempt in other caſes.</p>
+            <p n="2">2 That whereas divers Maſters of Ships, Factours, Gold<g ref="char:EOLhyphen"/>ſmiths, and other perſons, are to be Witneſſes in the diſcoverie of the Offenders; That ſuch perſons as ſhall be examined as Witneſ<g ref="char:EOLhyphen"/>ſes and certified by any two of the aforeſaid Commiſſioners, whereof <hi>Edward Watkins</hi> Eſquire, to be alwayes one (ſhall be diſ<g ref="char:EOLhyphen"/>charged onely for themſelves, and as much as they confeſſe) of all Fines, Penalties, and Puniſhments that they are liable unto by the Law, for any the aforeſaid miſdemeanours.</p>
+            <p n="3">3 That the Parliament-men and Committee of the Navie, are dayly ſcandalized in Pamphlets, for the Tranſporting of great ſums of Money, both <hi>Gold</hi> and <hi>Silver</hi> out of the Realm. (The
+<pb n="8" facs="tcp:171356:6"/>
+               <!-- PDF PAGE 30 -->chief Offenders will be found to be the Merchant Strangers.) Therefore for the Vindicating of their own Honours, a ſtrict ex<g ref="char:EOLhyphen"/>amination of the offences aforeſaid, ought to be enquired after. Without which, this ſcandall will ſtick on this Parliament and their Members, <hi>That they will not ſuffer Inquirie of theſe great abuſes, againſt the Common-wealth to be made, becauſe themſelves are faulty.</hi> And how damageable Tranſporting Treaſure is to the Common-wealth, the Petition of the Citie of <hi>London</hi> (the 1. of <hi>December</hi> laſt) to the Parliament, the Certificates of the Offi<g ref="char:EOLhyphen"/>cers of the Mint, and Commiſſiioners of the Cuſtomes afore recited, and ſeverall Statutes and Laws in all Ages abundantly declare.</p>
+            <closer>
+               <dateline>
+                  <date>20. June, Anno Dom. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171356:6"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
